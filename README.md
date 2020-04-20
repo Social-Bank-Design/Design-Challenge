@@ -66,6 +66,6 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 <br>
 Você tem 7 dias para fazer o teste.
 <br>
-Ao finalizar, deverá enviar o(s) arquivo(s) para ✉️ maylla.souza@socialbank.com com o assunto [Challenge Social Bank].
+Ao finalizar, deverá enviar o(s) arquivo(s) para ✉️ <b>maylla.souza@socialbank.com.br</b> com o assunto <b>[Challenge Social Bank].</b>
 <br>
 🍀Boa sorte!
