@@ -1,7 +1,8 @@
-🎨
+🎨👨🏻‍🎨👩🏻‍🎨
 # Design Challenge Social Bank
 
 
+🤔
 **O que:**
 
 Precisamos implementar um novo serviço de troca de tempo entre pessoas dentro do aplicativo Social Bank.
@@ -14,7 +15,7 @@ Não se aplica apenas a línguas. Outras categorias de serviços são sugerívei
 
 Lembrando que o usuário já se encontra em ambiente logado, portanto não é necessário o fluxo de acesso/ login.
 
- 
+ 📝
 **Pré-requisitos:**
 - Lista de ofertas de serviços
 
@@ -22,11 +23,11 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 
 - Busca;
 
-- Adicionar/ Editar / Remover trocas
+- Adicionar/ Editar / Remover trocas;
 
-- Trocas recentes
+- Trocas recentes.
  
-
+💪🏻
 **Devem ser entregues:**
 
 - Estudos de fluxo e/ ou jornada;
@@ -38,7 +39,7 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 - Apresentação final em PDF (Opcional).
 
  
-
+🏆
 **Serão avaliados:**
 
 - Ideia e concepção;
