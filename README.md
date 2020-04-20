@@ -64,5 +64,8 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 - Protótipo pode ser considerado diferencial.
 
 <br>
-
+Você tem **7 dias** para fazer o teste.
+<br>
+Ao finalizar, deverá enviar o(s) arquivo(s) para ✉️ maylla.souza@socialbank.com com o assunto [Challenge Social Bank].
+<br>
 🍀Boa sorte!
