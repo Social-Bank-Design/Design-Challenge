@@ -1,5 +1,6 @@
-🎨👨🏻‍🎨👩🏻‍🎨
+
 # Design Challenge Social Bank
+🎨👨🏻‍🎨👩🏻‍🎨
 Bem-vindo ao desafio do time de Design de Experiência do Social Bank.
 <br>
 Esse challenge tem a finalidade de testar suas habilidades e experiências com design.<br>
