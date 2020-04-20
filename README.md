@@ -1,6 +1,11 @@
 🎨👨🏻‍🎨👩🏻‍🎨
 # Design Challenge Social Bank
-
+Bem vindo ao desafio do time de Design de Experiência do Social Bank.
+<br>
+Esse challenge tem a finalidade de testar suas habilidades e experiências com design.<br>
+Esperamos que goste de faze-lo.
+<br>
+🍀Boa sorte!
 
 🤔
 **O que:**
@@ -14,6 +19,7 @@ A troca acontece da seguinte maneira: 1 hora = 1 crédito SB;
 Não se aplica apenas a línguas. Outras categorias de serviços são sugeríveis.
 
 Lembrando que o usuário já se encontra em ambiente logado, portanto não é necessário o fluxo de acesso/ login.
+<br>
 
  📝
 **Pré-requisitos:**
@@ -26,6 +32,7 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 - Adicionar/ Editar / Remover trocas;
 
 - Trocas recentes.
+<br>
  
 💪🏻
 **Devem ser entregues:**
@@ -37,7 +44,7 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 - Protótipo (na ferramenta escolhida);
 
 - Apresentação final em PDF (Opcional).
-
+<br>
  
 🏆
 **Serão avaliados:**
