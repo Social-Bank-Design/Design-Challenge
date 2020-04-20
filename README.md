@@ -1,11 +1,11 @@
 🎨👨🏻‍🎨👩🏻‍🎨
 # Design Challenge Social Bank
-Bem vindo ao desafio do time de Design de Experiência do Social Bank.
+Bem-vindo ao desafio do time de Design de Experiência do Social Bank.
 <br>
 Esse challenge tem a finalidade de testar suas habilidades e experiências com design.<br>
-Esperamos que goste de faze-lo.
+Esperamos que goste de participar.
 <br>
-🍀Boa sorte!
+
 
 🤔
 **O que:**
@@ -62,4 +62,4 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 - Protótipo pode ser considerado diferencial.
 
 
-
+🍀Boa sorte!
