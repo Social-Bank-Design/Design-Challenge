@@ -20,6 +20,7 @@ A troca acontece da seguinte maneira: 1 hora = 1 crédito SB;
 Não se aplica apenas a línguas. Outras categorias de serviços são sugeríveis.
 
 Lembrando que o usuário já se encontra em ambiente logado, portanto não é necessário o fluxo de acesso/ login.
+
 <br>
 
  📝
@@ -62,5 +63,6 @@ Lembrando que o usuário já se encontra em ambiente logado, portanto não é ne
 
 - Protótipo pode ser considerado diferencial.
 
+<br>
 
 🍀Boa sorte!
